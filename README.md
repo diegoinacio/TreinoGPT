@@ -4,9 +4,9 @@
 
 O treinamento funcional tem como objetivo desenvolver força, mobilidade, equilíbrio, coordenação e condicionamento cardiovascular por meio de movimentos naturais do corpo. Para homens acima dos 40 anos, é uma excelente estratégia para manter a capacidade física, prevenir lesões, melhorar a postura e aumentar a disposição para as atividades do dia a dia.
 
-[Treino FB (Full Body)](funcional_fb.md)
-[Treino IS (Inferior e Superior)](funcional_is.md)
-[Treino AP (Anterior e Posterior)](funcional_ap.md)
+- [Treino FB (Full Body)](funcional_fb.md)
+- [Treino IS (Inferior e Superior)](funcional_is.md)
+- [Treino AP (Anterior e Posterior)](funcional_ap.md)
 
 ## Musculação
 
